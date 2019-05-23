@@ -1,0 +1,1 @@
+module.exports = require('require-dir')(); // o '()' é pq esse require retorna uma função. Da acesso a todos os controllers que esta dentro da mesma pasta
